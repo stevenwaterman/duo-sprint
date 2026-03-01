@@ -1,0 +1,288 @@
+--- Highest total level at end of week 1 ---
+1. kitt sheep: 2,066 Levels
+2. 2strangers1trenchcoat: 2,046 Levels
+3. PriDEMONth: 1,841 Levels
+4. Not With Frogs: 1,838 Levels
+5. Raw Bat Meat: 1,496 Levels
+
+--- Fishing xp gained in week 2 ---
+1. PriDEMONth: 1.4m + 1.1m = 2.5m XP
+2. kitt sheep: 740k + 5k = 750k XP
+3. eef: 200k + 370k = 570k XP
+4. Bring Pride Back: 450k + 86k = 540k XP
+5. Duck Kissers: 450k + 9k = 460k XP
+
+--- Runecraft xp gained in week 2 ---
+1. PriDEMONth: 600k + 1.2m = 1.8m XP
+2. kitt sheep: 560k + 820k = 1.4m XP
+3. 2strangers1trenchcoat: 700k + 570k = 1.3m XP
+4. Bring Pride Back: 250k + 210k = 460k XP
+5. The Late Entries: 340k + 1k = 340k XP
+
+--- Hunter xp gained in week 2 ---
+1. 2strangers1trenchcoat: 1.7m + 490k = 2.2m XP
+2. Not With Frogs: 120k + 1.6m = 1.7m XP
+3. kitt sheep: 570k + 310k = 880k XP
+4. PriDEMONth: 450k + 330k = 780k XP
+5. Ratshakers: 260k + 120k = 380k XP
+
+--- Slayer xp gained in week 3 ---
+1. kitt sheep: 340k XP
+2. 2strangers1trenchcoat: 250k XP
+3. The Late Entries: 170k XP
+
+--- Combat Achievement points at end of week 3 ---
+1. 2strangers1trenchcoat: 3 points awarded
+2. kitt sheep: 2 points awarded
+3. PriDEMONth: 1 points awarded
+
+--- Barrows Chests opened in week 4 ---
+1. kitt sheep: 117 + 46 = 163 Chests
+2. The Late Entries: 77 + 0 = 77 Chests
+3. PriDEMONth: 0 + 45 = 45 Chests
+4. 2strangers1trenchcoat: 0 + 38 = 38 Chests
+5. Yellow Dye Bandits: 4 + 0 = 4 Chests
+
+--- Most valuable drop in week 4 ---
+1. 2strangers1trenchcoat: Dragon warhammer (15.1m)
+2. Yellow Dye Bandits: Cape of skulls (5.8m)
+3. PriDEMONth: Blue moon tassets (5.4m)
+
+--- Lives remaining (estimated) ---
+PriDEMONth: 2 lives
+2strangers1trenchcoat: 2 lives
+kitt sheep: 2 lives
+Bring Pride Back: 2 lives
+Yellow Dye Bandits: 1 lives
+The Late Entries: 1 lives
+
+--- Most quest points (WikiSync) ---
+1. PriDEMONth: 191 + 223 = 414 QP (+12hr)
+2. kitt sheep: 222 + 187 = 409 QP (+11hr)
+3. Not With Frogs: 193 + 202 = 395 QP (+12hr)
+4. 2strangers1trenchcoat: 147 + 186 = 333 QP (+12hr)
+5. Ratshakers: 143 + 141.9 = 284.9 QP (+12hr)
+
+--- Total agility xp ---
+1. Not With Frogs: 940k + 930k = 1.9m XP (+12hr)
+2. kitt sheep: 330k + 430k = 760k XP (+11hr)
+3. 2strangers1trenchcoat: 110k + 550k = 650k XP (+12hr)
+4. PriDEMONth: 200k + 270k = 470k XP (+12hr)
+5. Ratshakers: 420k + 27k = 450k XP (+12hr)
+
+--- Total attack xp ---
+1. kitt sheep: 1m + 460k = 1.5m XP (+11hr)
+2. PriDEMONth: 1m + 450k = 1.5m XP (+12hr)
+3. 2strangers1trenchcoat: 280k + 1.1m = 1.4m XP (+12hr)
+4. Bring Pride Back: 750k + 270k = 1m XP (+12hr)
+5. Ratshakers: 740k + 110k = 850k XP (+12hr)
+
+--- Total construction xp ---
+1. kitt sheep: 230k + 150k = 370k XP (+11hr)
+2. PriDEMONth: 100k + 170k = 270k XP (+12hr)
+3. 2strangers1trenchcoat: 110k + 73k = 180k XP (+12hr)
+4. eef: 31k + 18k = 49k XP (+7hr)
+5. Yellow Dye Bandits: 42k + 1k = 44k XP (+12hr)
+
+--- Total cooking xp ---
+1. kitt sheep: 1.7m + 230k = 1.9m XP (+11hr)
+2. eef: 800k + 1.1m = 1.9m XP (+7hr)
+3. 2strangers1trenchcoat: 1.7m + 160k = 1.9m XP (+12hr)
+4. Not With Frogs: 510k + 780k = 1.3m XP (+12hr)
+5. PriDEMONth: 330k + 940k = 1.3m XP (+12hr)
+
+--- Total crafting xp ---
+1. PriDEMONth: 120k + 460k = 580k XP (+12hr)
+2. kitt sheep: 300k + 170k = 480k XP (+11hr)
+3. The Late Entries: 370k + 34k = 400k XP (+12hr)
+4. 2strangers1trenchcoat: 170k + 180k = 360k XP (+12hr)
+5. Not With Frogs: 110k + 120k = 220k XP (+12hr)
+
+--- Total defence xp ---
+1. kitt sheep: 1.2m + 370k = 1.5m XP (+11hr)
+2. 2strangers1trenchcoat: 270k + 820k = 1.1m XP (+12hr)
+3. Ratshakers: 740k + 100k = 840k XP (+12hr)
+4. The Late Entries: 560k + 75k = 630k XP (+12hr)
+5. PriDEMONth: 280k + 310k = 590k XP (+12hr)
+
+--- Total farming xp ---
+1. PriDEMONth: 1.3m + 140k = 1.4m XP (+12hr)
+2. 2strangers1trenchcoat: 290k + 610k = 900k XP (+12hr)
+3. kitt sheep: 150k + 100k = 260k XP (+11hr)
+4. Not With Frogs: 79k + 39k = 120k XP (+12hr)
+5. The Late Entries: 64k + 0 = 64k XP (+12hr)
+
+--- Total firemaking xp ---
+1. Not With Frogs: 2.6m + 2m = 4.6m XP (+12hr)
+2. kitt sheep: 1.3m + 390k = 1.7m XP (+11hr)
+3. Ratshakers: 570k + 1.1m = 1.7m XP (+12hr)
+4. Bring Pride Back: 1.3m + 210k = 1.5m XP (+12hr)
+5. PriDEMONth: 1.1m + 300k = 1.4m XP (+12hr)
+
+--- Total fishing xp ---
+1. PriDEMONth: 1.6m + 1.5m = 3.1m XP (+12hr)
+2. eef: 990k + 830k = 1.8m XP (+7hr)
+3. kitt sheep: 1.6m + 110k = 1.7m XP (+11hr)
+4. 2strangers1trenchcoat: 570k + 250k = 820k XP (+12hr)
+5. The Late Entries: 650k + 130k = 780k XP (+12hr)
+
+--- Total fletching xp ---
+1. 2strangers1trenchcoat: 430k + 670k = 1.1m XP (+12hr)
+2. kitt sheep: 430k + 190k = 610k XP (+11hr)
+3. PriDEMONth: 160k + 450k = 610k XP (+12hr)
+4. Bring Pride Back: 97k + 170k = 270k XP (+12hr)
+5. The Late Entries: 220k + 17k = 230k XP (+12hr)
+
+--- Total herblore xp ---
+1. kitt sheep: 230k + 180k = 410k XP (+11hr)
+2. 2strangers1trenchcoat: 200k + 150k = 350k XP (+12hr)
+3. PriDEMONth: 110k + 76k = 180k XP (+12hr)
+4. Not With Frogs: 62k + 55k = 120k XP (+12hr)
+5. The Late Entries: 79k + 1k = 79k XP (+12hr)
+
+--- Total hitpoints xp ---
+1. kitt sheep: 2.1m + 590k = 2.7m XP (+11hr)
+2. 2strangers1trenchcoat: 450k + 1.6m = 2.1m XP (+12hr)
+3. PriDEMONth: 630k + 760k = 1.4m XP (+12hr)
+4. The Late Entries: 1.2m + 140k = 1.3m XP (+12hr)
+5. Ratshakers: 730k + 110k = 830k XP (+12hr)
+
+--- Total hunter xp ---
+1. 2strangers1trenchcoat: 2.7m + 730k = 3.5m XP (+12hr)
+2. Not With Frogs: 170k + 1.6m = 1.8m XP (+12hr)
+3. kitt sheep: 740k + 340k = 1.1m XP (+11hr)
+4. PriDEMONth: 580k + 450k = 1m XP (+12hr)
+5. Ratshakers: 260k + 130k = 390k XP (+12hr)
+
+--- Total magic xp ---
+1. 2strangers1trenchcoat: 880k + 1.2m = 2.1m XP (+12hr)
+2. kitt sheep: 1.1m + 600k = 1.7m XP (+11hr)
+3. The Late Entries: 1.1m + 90k = 1.2m XP (+12hr)
+4. Not With Frogs: 260k + 340k = 600k XP (+12hr)
+5. PriDEMONth: 250k + 350k = 590k XP (+12hr)
+
+--- Total mining xp ---
+1. PriDEMONth: 300k + 540k = 830k XP (+12hr)
+2. kitt sheep: 410k + 130k = 530k XP (+11hr)
+3. 2strangers1trenchcoat: 230k + 250k = 480k XP (+12hr)
+4. Yellow Dye Bandits: 110k + 260k = 370k XP (+12hr)
+5. Raw Bat Meat: 310k + 48k = 350k XP (+12hr)
+
+--- Total prayer xp ---
+1. 2strangers1trenchcoat: 360k + 290k = 650k XP (+12hr)
+2. The Late Entries: 360k + 38k = 400k XP (+12hr)
+3. PriDEMONth: 170k + 150k = 320k XP (+12hr)
+4. kitt sheep: 180k + 130k = 310k XP (+11hr)
+5. Not With Frogs: 65k + 200k = 270k XP (+12hr)
+
+--- Total ranged xp ---
+1. The Late Entries: 1.4m + 10k = 1.4m XP (+12hr)
+2. kitt sheep: 980k + 310k = 1.3m XP (+11hr)
+3. 2strangers1trenchcoat: 140k + 960k = 1.1m XP (+12hr)
+4. PriDEMONth: 230k + 200k = 430k XP (+12hr)
+5. Raw Bat Meat: 260k + 2k = 270k XP (+12hr)
+
+--- Total runecrafting xp ---
+1. PriDEMONth: 620k + 1.3m = 1.9m XP (+12hr)
+2. kitt sheep: 610k + 830k = 1.4m XP (+11hr)
+3. 2strangers1trenchcoat: 820k + 590k = 1.4m XP (+12hr)
+4. Bring Pride Back: 250k + 250k = 500k XP (+12hr)
+5. The Late Entries: 420k + 12k = 430k XP (+12hr)
+
+--- Total sailing xp ---
+1. kitt sheep: 450k + 52k = 510k XP (+11hr)
+2. PriDEMONth: 430k + 43k = 470k XP (+12hr)
+3. 2strangers1trenchcoat: 230k + 51k = 280k XP (+12hr)
+4. Ratshakers: 11k + 3k = 14k XP (+12hr)
+5. eef: 0 + 12k = 13k XP (+7hr)
+
+--- Total slayer xp ---
+1. kitt sheep: 450k + 83k = 530k XP (+11hr)
+2. 2strangers1trenchcoat: 210k + 200k = 410k XP (+12hr)
+3. PriDEMONth: 140k + 160k = 300k XP (+12hr)
+4. The Late Entries: 200k + 7k = 210k XP (+12hr)
+5. Yellow Dye Bandits: 95k + 1k = 96k XP (+12hr)
+
+--- Total smithing xp ---
+1. 2strangers1trenchcoat: 900k + 110k = 1m XP (+12hr)
+2. kitt sheep: 350k + 200k = 540k XP (+11hr)
+3. PriDEMONth: 100k + 180k = 280k XP (+12hr)
+4. The Late Entries: 180k + 31k = 210k XP (+12hr)
+5. Raw Bat Meat: 94k + 42k = 140k XP (+12hr)
+
+--- Total strength xp ---
+1. kitt sheep: 3m + 510k = 3.5m XP (+11hr)
+2. PriDEMONth: 460k + 1.4m = 1.9m XP (+12hr)
+3. 2strangers1trenchcoat: 210k + 1.4m = 1.6m XP (+12hr)
+4. Bring Pride Back: 690k + 290k = 980k XP (+12hr)
+5. Ratshakers: 770k + 110k = 880k XP (+12hr)
+
+--- Total thieving xp ---
+1. kitt sheep: 2m + 240k = 2.2m XP (+11hr)
+2. PriDEMONth: 1.4m + 850k = 2.2m XP (+12hr)
+3. 2strangers1trenchcoat: 1.1m + 240k = 1.3m XP (+12hr)
+4. Ratshakers: 540k + 27k = 570k XP (+12hr)
+5. Raw Bat Meat: 220k + 280k = 500k XP (+12hr)
+
+--- Total woodcutting xp ---
+1. kitt sheep: 1.2m + 190k = 1.4m XP (+11hr)
+2. PriDEMONth: 550k + 770k = 1.3m XP (+12hr)
+3. 2strangers1trenchcoat: 780k + 500k = 1.3m XP (+12hr)
+4. Bring Pride Back: 300k + 670k = 970k XP (+12hr)
+5. Not With Frogs: 200k + 280k = 480k XP (+12hr)
+
+--- Highest total xp ---
+1. kitt sheep: 22m + 7m = 29m XP (+11hr)
+2. 2strangers1trenchcoat: 14.2m + 13m = 27.2m XP (+12hr)
+3. PriDEMONth: 12.2m + 12.2m = 24.3m XP (+12hr)
+4. Not With Frogs: 6.6m + 7.4m = 14m XP (+12hr)
+5. The Late Entries: 10.3m + 1.4m = 11.8m XP (+12hr)
+
+--- Highest collection log slots ---
+1. PriDEMONth: 145 + 153 = 298 Slots (+12hr)
+2. 2strangers1trenchcoat: 131 + 163 = 294 Slots (+12hr)
+3. kitt sheep: 167 + 81 = 248 Slots (+11hr)
+4. Ratshakers: 54 + 60 = 114 Slots (+12hr)
+5. eef: 29 + 83 = 112 Slots (+7hr)
+
+--- Highest total level ---
+1. kitt sheep: 1,646 + 1,391 = 3,037 Levels (+11hr)
+2. 2strangers1trenchcoat: 1,525 + 1,506 = 3,031 Levels (+12hr)
+3. PriDEMONth: 1,493 + 1,491 = 2,984 Levels (+12hr)
+4. Not With Frogs: 1,181 + 1,189 = 2,370 Levels (+12hr)
+5. The Late Entries: 1,405 + 840 = 2,245 Levels (+12hr)
+
+--- Highest base level ---
+1. kitt sheep: 54 & 43 = 50 Base Level (+11hr)
+2. 2strangers1trenchcoat: 50 & 43 = 50 Base Level (+12hr)
+3. PriDEMONth: 50 & 41 = 50 Base Level (+12hr)
+4. eef: 1 & 29 = 20 Base Level (+7hr)
+5. Ratshakers: 27 & 16 = 20 Base Level (+12hr)
+
+--- Most combat achievement points (WikiSync) ---
+1. PriDEMONth: 80 + 171 = 251 Points (+12hr)
+2. 2strangers1trenchcoat: 32 + 193 = 225 Points (+12hr)
+3. kitt sheep: 137 + 56 = 193 Points (+11hr)
+4. Not With Frogs: 129 + 11 = 140 Points (+12hr)
+5. The Late Entries: 96 + 33.8 = 129.8 Points (+12hr)
+
+--- Most achievement diary tasks (WikiSync) ---
+1. PriDEMONth: 191 + 285 = 476 Tasks (+12hr)
+2. kitt sheep: 234 + 162 = 396 Tasks (+11hr)
+3. 2strangers1trenchcoat: 103 + 203 = 306 Tasks (+12hr)
+4. Not With Frogs: 102 + 149 = 251 Tasks (+12hr)
+5. The Late Entries: 154 + 54.2 = 208.2 Tasks (+12hr)
+
+--- Tournament Leaderboard ---
+1. kitt sheep: 87 points
+2. 2strangers1trenchcoat: 64 points
+3. PriDEMONth: 62 points
+4. Not With Frogs: 11 points
+5. The Late Entries: 11 points
+6. eef: 5 points
+7. Yellow Dye Bandits: 3 points
+8. Ratshakers: 2 points
+9. Bring Pride Back: 2 points
+10. Raw Bat Meat: 0 points
+11. Duck Kissers: 0 points
+12. Zammy Zealots: 0 points
